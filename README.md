@@ -52,3 +52,6 @@ npm install mongodb@5.1.0
 
 npm install body-parser@1.20.2
 
+A video of this script in action can be viewed in following link
+
+
